@@ -18,5 +18,6 @@ Frontend: React.js
 Database: MongoDB/SQL Server
 Containerization: Docker
 Other: Microservices Architecture, Mediator Pattern, API Development
+
 🔗 Getting Started:
 Follow the instructions in the README to set up and run the project locally for development and testing purposes.
